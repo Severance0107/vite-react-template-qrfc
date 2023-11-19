@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-// import "../styles/Auth.css";
+import "../styles/Auth.css";
 import logo from "../assets/images/LogoPlataforma.png";
 import { Link, useNavigate } from "react-router-dom";
 import clienteMongoAxios from "../config/clienteMongoAxios";
